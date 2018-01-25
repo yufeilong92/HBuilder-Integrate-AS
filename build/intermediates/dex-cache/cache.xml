@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\map-amap.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b752fcb9cbdaa9532dd1f298c8da1d9c304400aa">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\map-amap_cb8404c4471b2ae239d18996c16aa8c9d636febb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\oauth-miui.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac0dd4223f8f0700f105663fd674d1ab45f53ad5">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-miui_5c4212b2896dcf6b40d9b934d96630dc0131191c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\geolocation-amap.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8d20f6ccbc3407268fc7c9d8f7a7274b160b8cd6">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-amap_fe85a48f81c8f30ee1d8db075931af3201369a60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\gallery.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc3868abf4914e0d12374b0aa3bacba364258485">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\gallery_0251a8cc2a525da4c611fc7f11acc2d582ecbb63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\aps-xiaomi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1eb3df12b93dee68db6e461b01091e06641dc28c">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-xiaomi_c3452f2b85b1ba33cdc93e15058cc704b93154e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\nativeui.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d05e3f3d0b5db2e6b03f84c848aaea2fa5e005c1">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeui_4aae0e4fd024b5f1c63d811b19a5f385c6a6b1d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\alipayutdid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipayutdid_0106e6dbeda004e0de9da68db91f1f64931f147e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\BaiduLBS_Android_v4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="674bf21aaeb92c3f397aa5ced9ec559e2d5b7fc7">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_v4.3.1_66fcc13c63bcf82d555faf32b51d3cf2fb50ce39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_d0458399ccb4cbe0ca3c836790e2b38dba881d29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="612846c9857077a039b533718f72db3bc041d389">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_36c9a1f091f1d6838f7c0f11d9a71f2eccd0f8a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\statistics-umeng.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d14fb77010dfbf38718a4d3e75cef4f5b0993e65">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\statistics-umeng_f73dd776166c9b0e99c2e300efeaec0fb811858f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\aps.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da22d489f6cb91b55e9521eccea8aa0dd21e77d5">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps_f0be26e00d29277663b56c043f00db95dda85f94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\nopermission.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40eb2dc11bc46a251ee202f99ee042172b139f10">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nopermission_76d88aa41414c1f470e5f70553e14aa23f2e55b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\invocation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="407c42d1ad576cd8e93d247351bd16627ff8f3ff">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\invocation_0873b95052d9f085e039deb75a084af908853043\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\alipaySingle-20161222.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="795c38473dc8c277a8a07694592e13d7e7601108">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySingle-20161222_249101507e3d6b7ad13ad093ae8eec15067608dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\AMap_Location_V3.3.0_20170118.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="299ccce875c1bbd5eb2802923ae89946e22b7ee6">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V3.3.0_20170118_928437f629320351365a6467d7d47b59137d5da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\nativeObj.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cfdcbe2d3bff1a33392929af06b844108be8b846">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeObj_e2c15358ffb915e66d5ce79f6ec5e840e1d17c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\oauth-weixin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd92cdfec9ada2c0aeccd9af54fcc50540921d0a">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-weixin_d9095436f2ec4371acec7de2bdcfa23ec7d42145\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\gif.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b86e72dbf272c69b3acd5e552066d9f521e9616">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\gif_0e7b8d6a4ec6239686dd4f1d55b73e49c3700071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\geolocation-system.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e7223df271e2499541331ef39a8becbfb8f8d64">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-system_bfc56106eb77906cffc25f23a5ce6a749de3a19b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\tx_weibo_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33921321a220f3927929217aeed32befede21502">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_10aff7a222ac530741b13f73dba773bc7b5861c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\speech.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bbb4fc6685d136512026ba69cafb0676e53fd1cf">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_29a162241e5d7c4cd785200b619c6c074fc48872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\xhr.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb89f3951143048e135124f018138fa5d28fa230">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\xhr_aa6bb36347fa3b8a76caa65f68a069b4ff569992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\AMap_Services_V2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3057067b0d15469c99c2e8b1a87d66c94862ac7a">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Services_V2.4.0_4a166bbae291a0e6914ca1dfc40e189e49f7f5d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\payment.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="640d40226eb49cac5637e0e2e935659864aff37e">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment_d344182fc648bcc6795ee85cea1bbab1aeecd5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\oauth-sina.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fab4f9e14bcf095ddb8edf62c20c83135edcde1b">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-sina_7c580848d1b7dc56634cb92368b6e505365d0d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\device.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="839aa9b99e4ce6ff58b6d039ef5abf57f9f1b98d">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\device_5ee63a698cf34fa4e6203e0a3a6299040a2b5c4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\pdr.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78d5210b683c139a93bb1f6abd2c8c93bd2a2166">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\pdr_1c1b8c00ab2b8fe8f4553f5e857e9966d84f8067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\share-weixin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00ae7f55ac533e6af742d874826c0aec792e89da">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-weixin_95f6f58778a0a54b9b2a1fb04eb6c580a96286b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\file.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="264835ab8b77b98ea6358fd2fb4bf46d9cb9287c">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\file_245a9bc8c32c221a1c3efc660d3a18a29de30791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\MKeyPush.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c09bfde201f801b90a39d8e7eb31218032a0fdf">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\MKeyPush_81ad7f08bef6a2a28b5c11420013faf6110dbeae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\geolocation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a6a6524922e981189a996277a6e1377e11d5e10">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation_c6ac1aa8e615012ff23a3c8eb4ea34c4da64c993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\speech_ifly.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9822e4a07cdc730b03093d6500ae14aea838f268">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_ifly_9b6a79ccd86bb89937a71f4c280cd1491074e35a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\tx_weibo_sdk-httpclient-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk-httpclient-3.0.1_6cadd5b41112779564b6eaaf20a3a8a1feb94400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\my-nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa202f70b9e42e2ad90e0cb9cdc573e701c254ac">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\my-nineoldandroids-2.4.0_2024344b73ebb15edd6e7b823df14cd6223b85f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\oauth.1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b810f6ac8197c3806ea0371a6a4896bacc8755a7">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth.1.5.1_90e5f1bb26e4b785564cc7d245a95748d16a8f76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\share-tencent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88baed6bc58e2e3e685478700c624649dd55ac18">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-tencent_b23330c6b575180f9ab2fd48faf6cb4279b2ede4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\tx_wx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_wx_4f6660935f726f4b97063cece566991efcee8179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\oauth.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="966c5a7b35187e64625bcdd508008806c0defd62">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth_71b051724e6e0ce281551a24ec95c271e6cc3cba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\geolocation-baidu.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00b1a195cc622e5895215974b0d4e73650159abb">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-baidu_d03fb2d5601e2c61d020494db9509f69143c912f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\BaiduLBS_Android_geolocation_v7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ff17ff956f71048c2f54cf20688dc8c3b7401ef1">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_geolocation_v7.1_026b94a57f630ff8f10222b40df152a135b514d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\map-baidu.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79abed660e6ffa4384183ee6f76334394bf8a4d6">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\map-baidu_7c7600531eabab7bdc5d73a583adf957dec7d1ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\barcode.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f9b5a94187e95cb058e5aafa6ab53be72c922a2">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\barcode_63d577018c82baf497b8d2419daae960332cb34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\oauth-qq.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="61b9e71ac9710ce9afd3bdd667c1b9ba377ff3c1">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-qq_5510cb024df38faefd9f4fc2fc60de1a3e035eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\audio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b3779d77c2b8535a1743c42ccae0d9cd546fff8">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\audio_6e18caa075bb06ecac04e919db15db2368a1f75f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\share-sina.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bda78235ba02c4d2bdd6b83ffd8b39d028a14fdc">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-sina_64f5a4338dec3d9805e7e9fa0b15191efff3238b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\camera.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="412b88006a98cb6bd5246fb1a3a21df21d887f8a">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\camera_bd7a756f9b696914bf9d14da99d46cd6a3c3f70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\qq_sdk_v3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84c7cf027dfd4517eb51d5898999a7f2f74f99cc">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\qq_sdk_v3.1.0_5282080a39b39238189b566645813398ca3fb939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\share.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="11df36498152f8b4063cd860c72a71fc292d237d">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share_f88a0d72064eaa49d1258c410f651faad4d9812f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\tx_weibo_sdk_component.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="17d672bf657b4d848d1b33782496fc0dd972072c">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_component_ec5dd765711c57749b685c96d827df9ebd5deea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\BaiduLBS_Android_base.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc1e2bd4bd1e8fa573f3c3e104cb777a6dfd6992">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_base_fce1db830158ddb5f6e7ff4d11a43f56aa59144b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\qq_mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\qq_mta-sdk-1.6.2_117d19dd041f20e8c3d390f2e3eb6aa008920f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\payment-alipay.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7acc739e9857579866de69f1c1c516ab96346522">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-alipay_21d87fe2d8e53ca1e081bec28a7f6812c91ab0b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\aps-igexin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ec94236c896cfc412f72cbc59d4b6fa91e422fb">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-igexin_d95b762c35ec8f08654c1bf0d80856c8095d5ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.0.1_101e724c5569bbbbf7b1886651912463ce96fe76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\mysonic.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1c178b9af7ece0c4cca02beb7a2a9bb694d9a1">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\mysonic_c578ef3fe9a372825eb0f33b8bf9735437a2ec93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\my-imageloader.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a514eb78d2b8a290e4f05a444417b23024aa36ef">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\my-imageloader_b91b0a6315432f54acdfd3a4ffea7f13bb047ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\GetuiSDK2.10.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d70dcea02114e0414060311e3733db5c40498b58">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiSDK2.10.3.5_7340e98f37925017255de7ee1ce5efb30a647b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\uploader.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63c15c32869083af81f5fb4d07c44dfc4af26547">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\uploader_26eef1876e88a190c6a064d487534e8b4c9aea92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\messaging.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d74d44b14970328e600e9edd682a496fb68eee7">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\messaging_9e1ac94c90da443153b623020bbb88331d5cf69a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\sensor.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="04cc66abe7f2ec4bf862690bec8f0962d38d1d41">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\sensor_35900ad8038cc54f09c5bd57900c640fc94915fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\share-qq.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fb93567fe9331eae34dbf8a6b0a93ebbab1b7164">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-qq_5e5c428561cac0cba65fa9d1f6ab1bf676544a98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\MiPush_SDK_Client_3_1_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be4a7a20473c8e53375e59bef1af1bccaf1a7276">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\MiPush_SDK_Client_3_1_2_e45f051e5c7e743db1e1ef7ccc1dd01fcd628ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\contacts.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b615b1ba81b4e9310a0acabd06fb1074c5f5c4d">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\contacts_7e9f958a6812b883ac3b307c963f25ca427aa7bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\aps-dhPush.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7de8e1b0cdf2ef8a72bd6f76bfb69c69e46b9660">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-dhPush_3399f9be19639463d4eaa7f63e60f6c091b64473\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\ui.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d97385c401945a6ead234e27af84c43c2e7c616">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\ui_ed939ae71a9e69ffdaa25b771356da20d4ab6587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\downloader.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca58af66c9a5122580125945d3a418b1e31884f3">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\downloader_44dbcff6b2080591f65e25cbea214d8921aeb69a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\payment-weixin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2fe947f9a3c8171fef76def9a891b48f1a17917d">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-weixin_fc8065dd31ad7474d5b5afd5fd6e274a481257b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\sinaweibo4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150db4f7f50eeca5cd95b87b0bb0337dbc2bdffb">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\sinaweibo4.1_59be654c5253e131727ed825eddb99f3922c0c87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\libs\navigatorui.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb8251a11eba3ce1d452bc0bae794f4ccd354670">
+        <dex dex="C:\Users\YFPHILPS\Desktop\h5builder\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\navigatorui_3bb29fc97159843d74f82e4f2d4f0cba2b18bb8c\classes.dex" />
+    </item>
+
+</items>
